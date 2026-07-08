@@ -10,7 +10,7 @@
 // facilitar o trabalho em equipe.
 
 //==========================================================//
-//                  INICIANDO UM PROJETO                     //
+//                  INICIANDO UM PROJETO                    //
 //==========================================================//
 
 // Inicializa um repositório Git
