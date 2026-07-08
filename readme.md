@@ -1,0 +1,1 @@
+este projeto utilizei para aprender git e github e seus comandos
